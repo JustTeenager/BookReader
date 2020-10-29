@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">От таксиста до миллионера</string>
+    <string name="text_email">Email</string>
+    <string name="email_edit_text_hint">Введите email</string>
+    <string name="name_edit_text">Имя*</string>
+    <string name="name_edit_text_hint">Введите имя</string>
+    <string name="second_name_text">Фамилия</string>
+    <string name="second_name_edit_text_hint">Введите фамилию</string>
+    <string name="label_age">Номер телефона*</string>
+    <string name="phone_edit_text_hint">Введите номер телефона</string>
+    <string name="ok">OK</string>
+    <string name="later">Позже</string>
+    <string name="connect_to_facebook">Автор в Facebook</string>
+    <string name="connect_to_inst">Автор в Instagram</string>
+    <string name="phone_invalid">Неверный формат телефонного номера</string>
+    <string name="to_author">Связаться с автором:</string>
+    <string name="continue_reading">Для продолжения чтения введите свои контактные данные</string>
+    <string name="policy_title">Политика конфиденциальности</string>
+    <string name="empty_field">Необходимо заполнить обязательные поля</string>
+    <string name="thanks">Спасибо!</string>
+    <string name="gone_wrong">Что-то пошло не так,проверьте подключение к интернету</string>
+    <string name="contents">Оглавление</string>
+</resources>

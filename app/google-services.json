@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34686339125",
+    "firebase_url": "https://bookmillionaire-a8724.firebaseio.com",
+    "project_id": "bookmillionaire-a8724",
+    "storage_bucket": "bookmillionaire-a8724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34686339125:android:e61f79c8d94ad8e825497c",
+        "android_client_info": {
+          "package_name": "com.example.bookfinality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34686339125-urfvmql2d0pd4bue3716ecsdlf7e2gbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1X8NjbMKm1jKvH6VZlDnvtECINyuHbf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34686339125-urfvmql2d0pd4bue3716ecsdlf7e2gbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

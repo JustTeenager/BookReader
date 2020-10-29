@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/facebook_btn"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/social_facebook_fb_35"
+        android:title="@string/connect_to_facebook" />
+
+
+    <item
+        android:id="@+id/inst_btn"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/social_instagram_43"
+        android:title="@string/connect_to_inst" />
+
+    <item
+        android:id="@+id/policy_btn"
+        app:showAsAction="never"
+        android:title="@string/policy_title"/>
+
+    <item
+        android:id="@+id/content_btn"
+        app:showAsAction="never"
+        android:title="@string/contents"/>
+
+</menu>
