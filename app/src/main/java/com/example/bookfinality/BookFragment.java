@@ -20,7 +20,7 @@ import java.util.TimerTask;
 public class BookFragment extends Fragment {
 
     public static final int REGISTER_CODE =1;
-    private static final int TIMER=10000;
+    private static final int TIMER=600000;
     private DataBase dataBase;
     private MyDataBase myDataBase;
     private int page;

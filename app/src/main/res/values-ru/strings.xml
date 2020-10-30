@@ -15,7 +15,7 @@
     <string name="connect_to_inst">Автор в Instagram</string>
     <string name="phone_invalid">Неверный формат телефонного номера</string>
     <string name="to_author">Связаться с автором:</string>
-    <string name="continue_reading">Для продолжения чтения введите свои контактные данные</string>
+    <string name="continue_reading">Чтобы продолжить чтение введите свои контактные данные</string>
     <string name="policy_title">Политика конфиденциальности</string>
     <string name="empty_field">Необходимо заполнить обязательные поля</string>
     <string name="thanks">Спасибо!</string>

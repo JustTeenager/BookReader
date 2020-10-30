@@ -135,7 +135,7 @@ public class ContentFragment extends Fragment {
             public void bind(int page,String contents,int num){
                 this.page=page;
                 {
-                    if (num<12) label.setText("Глава "+(num)+":");
+                    if (num<=12) label.setText("Глава "+(num)+":");
                     else label.setText("Глава "+(num-1)+":");
                     content.setText(contents);
                 }
